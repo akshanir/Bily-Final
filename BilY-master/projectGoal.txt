@@ -1,0 +1,43 @@
+Bily Project Description
+
+Project Name
+
+Bily
+
+Problem statement
+
+As the world is getting intertwined and cultures are getting closer to each other everyday, more and more people are speaking multiple languages during their daily routine, these days almost everyone speaks at least 2 or more languages on daily basis whether it’s for business, school or simply talking with friends, but you almost can’t find any text editor / voice recognition system that can help them with their bilingual lifestyles.
+
+
+Solution Proposal
+
+Here is where Bily comes into play, it has 2 main components:
+the first one is an *autocorrect and word suggestions* system that can handle multiple languages at the same time and in the same sentence, it provides multiple services including:
+
+1. *cross language typing*: as a user you no longer need to bother with changing languages (alt+shift) every few seconds, Bily does that for you it detects which language you intended to use and use it instead no more typing (اثممخخ) when you are trying to say hello.
+2. *customize your own library of slang*: yes with Bily you can use any words you want the sky is the limit here, a library that is specifically tailored for you!.(don’t forget to be creative :D).
+3. *word prediction and auto completion*.
+4. *grammar checking*.
+5. *formal mode*: which helps you write your documents in a more formal manner replacing (“wanna”) with (“want to”) and similar functions.
+
+the second component is a voice recognition system that connects multiple languages at the same time, naturally it supports the first components services as well as some extra features:
+
+1. *add your own shortcuts*: for sentences that are used often you can use simple shortcuts, like saying(“apm”) and Bily will detect it as (“as previously mentioned”), or any other sentence that you want it to be.
+2. *speak with no words*: it’s similar to the shortcuts feature but instead of using words you can maybe clap your hands perhaps snap your finger twice and that maps to a function of your choice.
+
+
+now for some questions that you might be asking:
+
+what about different words that are pronounced the same in both languages?
+Bily uses an AI system that can detect the most fitting word following the context of the sentence.
+
+where is Bily implemented?
+Developers across the spectrum will be able to use Bily in their applications whether its social media, markets, search engines and much more, I’m hoping to release Bily as a package / library in different programming languages like Python/ C / C++  / Java
+
+
+Benefits
+
+* Bilingual people will be able to text more freely without any restrictions.
+* all different applications will be able to use this service.
+* bilingual people can do speak to voice recognition without worrying about different languages.
+
